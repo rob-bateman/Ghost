@@ -49,6 +49,7 @@ Session.vim
 /content/apps/**/*
 /content/themes/**/*
 /content/images/**/*
+/static
 !/content/themes/casper/**
 !/README.md
 
