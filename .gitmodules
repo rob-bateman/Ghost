@@ -1,3 +1,9 @@
 [submodule "content/themes/casper"]
 	path = content/themes/casper
 	url = https://github.com/TryGhost/Casper.git
+[submodule "content/themes/ghostium"]
+	path = content/themes/ghostium
+	url = git@github.com:rob-bateman/ghostium.git
+[submodule "static"]
+	path = static
+	url = git@github.com:rob-bateman/rob-bateman.github.io.git
