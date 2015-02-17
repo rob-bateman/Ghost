@@ -4,3 +4,6 @@
 [submodule "static"]
 	path = static
 	url = git@github.com:rob-bateman/rob-bateman.github.io.git
+[submodule "content/themes/ghostium"]
+	path = content/themes/ghostium
+	url = git@github.com:rob-bateman/ghostium.git
